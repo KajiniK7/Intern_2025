@@ -1,0 +1,21 @@
+ol{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    list-style-type:none;
+    margin: 0;
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    background-color: brown;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+}
